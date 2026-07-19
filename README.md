@@ -25,7 +25,7 @@ https://public.tableau.com/authoring/Indian_Startup_Funding_Dashboard/Dashboard2
 ## Repository Contents
 - `startup_funding_cleaned.csv` — cleaned dataset
 - `data_cleaning.ipynb` — Google Colab notebook with all data cleaning steps
-- `Concept_Note.pdf` — project concept note
+- `Concept_Note.pdf` — Project concept note
 - `Final_Presentation.pptx` — final presentation slides
 
 ## Key Insights
