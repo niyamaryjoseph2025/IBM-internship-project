@@ -37,5 +37,5 @@ Funding activity is highly volatile year-over-year, swinging from a low of $390M
 A total of $32.9 billion was raised across 2,138 funded startups, with funding concentrated in major hubs (visible in the city map) — reinforcing that investment is geographically concentrated rather than evenly spread across India.
 The "Other" category still holds significant funding ($7.2B), indicating a long tail of niche/hybrid startups that don't fit neatly into standard industry buckets — worth noting as both a data limitation and a real reflection of India's diverse startup landscape.
 
-## Tools Used
+## Tools Used:
 Python (Pandas), Google Colab, Tableau Public
