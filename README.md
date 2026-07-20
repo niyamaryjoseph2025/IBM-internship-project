@@ -6,7 +6,7 @@ patterns in investment activity across cities, industries, and time. It was deve
 as a final internship project focused on data-driven decision-making — transforming a 
 raw dataset into a clean, interactive visual format using Tableau Public.
 
-## What I Did
+## What We Did
 1. **Data Cleaning** — Cleaned the raw Kaggle "Indian Startup Funding" dataset using 
    Python (Pandas) in Google Colab: fixed inconsistent date formats, converted funding 
    amounts from text to numeric values, standardized city names (merging spelling 
@@ -20,7 +20,7 @@ raw dataset into a clean, interactive visual format using Tableau Public.
    project's objective, data description, KPIs, and key insights.
 
 ## Live Dashboard
-https://public.tableau.com/authoring/Indian_Startup_Funding_Dashboard/Dashboard2#1
+https://public.tableau.com/views/Indian_Startup_Funding_Dashboard/Dashboard2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Repository Contents
 - `startup_funding_cleaned.csv` — cleaned dataset
